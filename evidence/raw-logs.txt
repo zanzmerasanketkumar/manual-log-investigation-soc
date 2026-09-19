@@ -1,1 +1,18 @@
+================ WINDOWS SECURITY LOGS ================
 
+Event ID: 4625
+Account: sanket
+Source IP: ...
+
+Event ID: 4624
+Account: sanket
+Source IP: ...
+
+================ LINUX AUTH.LOG ================
+
+sshd:
+Failed password for sanket
+Accepted password for sanket
+
+sudo:
+sudo: sanket : COMMAND=/usr/bin/id
